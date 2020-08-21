@@ -11,8 +11,8 @@ import SwiftUI
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     
-    @IBAction func buttonClicked(_ sender: UIButton) {
-      print("This is a Git tutorial")
+   @IBAction func buttonClicked(_ sender: UIButton) {
+      print("You finished!")
     }
 
     var window: UIWindow?
